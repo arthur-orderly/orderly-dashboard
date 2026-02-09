@@ -1,0 +1,16 @@
+{
+  "projectId": "prj_NVBjUdH3fXXcTJsl4m43GtmKQ4yv",
+  "orgId": "team_ZgvmVhIbhutQpCHzjlqAyhXo",
+  "projectName": "orderly-stats",
+  "settings": {
+    "createdAt": 1769574132479,
+    "framework": "nextjs",
+    "devCommand": null,
+    "installCommand": null,
+    "buildCommand": null,
+    "outputDirectory": null,
+    "rootDirectory": null,
+    "directoryListing": false,
+    "nodeVersion": "24.x"
+  }
+}
