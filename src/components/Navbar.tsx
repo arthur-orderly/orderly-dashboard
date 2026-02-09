@@ -19,9 +19,6 @@ export default function Navbar() {
 
   const navItems = [
     { id: 'dashboard', label: 'Dashboard', href: '/' },
-    { id: 'earn', label: 'Earn', href: '/earn' },
-    { id: 'leaderboard', label: 'Leaderboard', href: '/leaderboard' },
-    { id: 'builders', label: 'Builders', href: '/builders' },
   ]
 
   return (
